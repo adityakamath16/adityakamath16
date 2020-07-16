@@ -11,3 +11,5 @@
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/linkdin_banner_new.jpg?alt=media&token=bb0a1291-c911-4fb6-b57b-048603cb1b54)
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="adityakamath16"><a class="LI-simple-link" href='https://in.linkedin.com/in/adityakamath16?trk=profile-badge'>Aditya Kamath</a></div>
+
