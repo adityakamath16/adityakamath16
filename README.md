@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Android and web developement
 - 🤔 I’m looking for help with c# :-)
 - 💬 Ask me about Android
-- 📫 How to reach me: [Instagram - @adityakamath__](https://www.instagram.com/adityakamath__/),  [LinkedIn - @adityakamath16](https://www.linkedin.com/in/adityakamath16/),  [Twitter - @adityakamath__](https://twitter.com/adityakamath__)
+- 📫 How to reach me: [Instagram - @adityakamath__](https://www.instagram.com/adityakamath__/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of my time reading Books and watching Netfix
 
@@ -13,9 +13,9 @@
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/adityakamath__">
-  <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+  <img align="left" alt="Aditya Kamath Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
 </a>
 <a href="https://www.linkedin.com/in/adityakamath16/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="Aditya Kamath Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
 </a>
 
