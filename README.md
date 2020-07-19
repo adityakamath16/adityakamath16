@@ -8,7 +8,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of my time reading Books and watching Netfix
 
-
+### Tools :fire:
+|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2FPyCharm_Logo.svg.png?alt=media&token=f8f7a821-aee5-441e-8d41-908101fc7f0f" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" width=60> |
+|:---:|:---:|:---:|
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/adityakamath__">
