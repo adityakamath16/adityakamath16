@@ -18,10 +18,4 @@
 <a href="https://www.linkedin.com/in/adityakamath16/">
   <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href="https://medium.com/@mail2vedj">
-  <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
-<a href="https://www.quora.com/profile/Vedant-Jajoo-1">
-  <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
-</a><br/><br/>
 
