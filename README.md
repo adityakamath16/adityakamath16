@@ -20,4 +20,6 @@
 <a href="https://www.instagram.com/adityakamath__/">
   <img align="left" alt="Aditya Kamath Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ficons8-instagram.svg?alt=media&token=81106095-b6a3-4c82-a858-4f192707135a" />
 </a>
-
+<a href="https://www.instagram.com/adityakamath__/">
+  <img align="left" alt="Aditya Kamath Facebook" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
+</a>
