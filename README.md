@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Android and web developement
 - 🤔 I’m looking for help with c# :-)
 - 💬 Ask me about Android
-- 📫 How to reach me: [Instagram - @adityakamath__](https://www.instagram.com/adityakamath__/),  [LinkedIn - @adityakamath16](https://www.linkedin.com/in/adityakamath16/)
+- 📫 How to reach me: [Instagram - @adityakamath__](https://www.instagram.com/adityakamath__/),  [LinkedIn - @adityakamath16](https://www.linkedin.com/in/adityakamath16/),  [Twitter - @adityakamath__](https://twitter.com/adityakamath__)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of my time reading Books and watching Netfix
 
