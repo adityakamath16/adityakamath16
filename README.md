@@ -20,6 +20,9 @@
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityakamath16)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakamath16)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Connect with me :smiley:
 <a href="https://twitter.com/adityakamath__">
   <img align="left" alt="Aditya Kamath Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
