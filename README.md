@@ -29,7 +29,7 @@
   <img align="left" alt="Aditya Kamath Linkdin" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/adityakamath__/">
-  <img align="left" alt="Aditya Kamath Instagram" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/instagram.svg" />
+  <img align="left" alt="Aditya Kamath Instagram" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/instagram-main.svg" />
 </a>
 <a href="https://www.facebook.com/aditya.kamath.9081">
   <img align="left" alt="Aditya Kamath Facebook" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/facebook.svg" />
