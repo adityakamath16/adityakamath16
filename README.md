@@ -15,7 +15,7 @@
 
 
 ### Tools :fire:
-|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2FAdobe_Brackets_v0.0.x_icon.png?alt=media&token=94a00119-63c8-40af-8b89-79579cd402b8" width=60>|  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffirebase.png?alt=media&token=b31bf89b-27a9-4192-9c7f-ae8eedb56554 " width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" width=60> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-stable.png?alt=media&token=88a7cb79-fe86-46ab-b691-05d210131a99" width=60> |
+|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/1200px-Android_Studio_icon.svg.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/Adobe_Brackets_v0.0.x_icon.png" width=60>|  <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/firebase.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityakamath16)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakamath16)
