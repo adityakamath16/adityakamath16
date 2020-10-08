@@ -1,5 +1,5 @@
 ### Hola, I'm Aditya Kamath 👋
-![alt text](https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/linkdin_banner_new.jpg?alt=media&token=bb0a1291-c911-4fb6-b57b-048603cb1b54)
+![alt text](https://github.com/adityakamath16/adityakamath16/blob/master/images/banner/banner.jpg)
 - 🔭 I’m currently working on Android App Developement
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on Android and web developement
