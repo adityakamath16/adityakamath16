@@ -1,4 +1,5 @@
 ### Hola, I'm Aditya Kamath 👋
+![](https://komarev.com/ghpvc/?username=adityakamath16)
 ![alt text](https://github.com/adityakamath16/adityakamath16/blob/master/images/banner/banner.jpg)
 - 🔭 I’m currently working on Android App Developement
 - 🌱 I’m currently learning Kotlin
